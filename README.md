@@ -10,6 +10,7 @@ Backend code (Laravel) must be adhere to [PSR-2](https://github.com/php-fig/fig-
 # TO DO
 Registration
 Login
+Forums
 Threads
 Posts
 Profile
